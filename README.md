@@ -143,18 +143,29 @@ Expo Go is a sandbox environment that allows you to experiment with building nat
 Explore the following React Hooks which are widely used in React Native App Development:
 
 useState
+
 useEffect
+
 useContext
+
 useReducer
+
 useRef
+
 useMemo
+
 useCallback
+
 useLayoutEffect
+
 useImperativeHandle
+
 useDebugValue
 
 
+
 ## Projects for Practice :
+
 ### **Stopwatch/Timer App**
 **Description:** Create a stopwatch or timer with start, pause, and reset functionalities.
 **Skills:** Using useState and useEffect for timing logic, handling UI updates based on timer status.
@@ -163,7 +174,6 @@ useDebugValue
 **Description:** A quiz app where users can select answers and get a score at the end.
 **Skills:** State for tracking current question, selected answers, and scoring based on answers.
 
-## Projects for Assignment :
 
 
 
